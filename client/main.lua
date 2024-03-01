@@ -1,7 +1,7 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 local PlayerJob = {}
 local patt = "[?!@#]"
-local CallVolume = 0.3
+local CallVolume = 0.2
 PhoneData = {
     MetaData = {},
     isOpen = false,
